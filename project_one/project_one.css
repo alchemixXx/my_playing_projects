@@ -1,0 +1,73 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
+  color: #cdf4ee;
+
+  background-color: #080c7a;
+
+  border-width: 60px;
+  border-top-width: 0px;
+  border-style: solid;
+  border-color: rgb(13,89,85);
+
+  max-width: 100%;
+  margin-left: -1px;
+  margin-right: -1px;
+  max-height: 100%;
+
+}
+main, header {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.thx {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.thanks {
+font-size: 1.4em;
+}
+
+.forms {
+  font-size: 1.1em;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.sect_one {
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+.sect_two {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+input {
+  /* height: 10px; */
+  width: 300px;
+  height: 21px;
+}
+#button {
+  width: 120px;
+  height: 60px;
+  margin-top: 12px;
+  border-radius: 15px;
+  background-color: #f2751d;
+  font-size: 1.1em;
+  font-family: 'Indie Flower', cursive;
+}
+
+/* input {
+margin-bottom: 10px;
+} */
+#fname {
+  margin-bottom: 10px;
+}
+#lname {
+  margin-bottom: 10px;
+}
