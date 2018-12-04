@@ -1,0 +1,26 @@
+.btn-light {
+  background-color: #b3d8d8;
+}
+.btn-light:hover {
+  background-color: #b3d8d8;
+}
+
+.nav-link{
+  color: #b3d8d8;
+}
+.nav-link:hover {
+  color: white;
+}
+
+
+.img-fluid{
+  max-width: 110%;
+}
+
+.row{
+  max-width: 100%;
+}
+
+.img-fluid {
+  margin-bottom: 5px;
+}
